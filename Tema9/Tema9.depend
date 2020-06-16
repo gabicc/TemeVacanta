@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592322604 source:/home/pi/teme_vacanta/temevacanta/Tema9/main.cpp
+	<iostream>
+	<math.h>
+
